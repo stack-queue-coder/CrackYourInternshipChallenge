@@ -1,4 +1,6 @@
-// https://leetcode.com/problems/find-the-duplicate-number/description/
+// Question link : https://leetcode.com/problems/find-the-duplicate-number/description/
+// Concept used : floyd cycle detection
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
